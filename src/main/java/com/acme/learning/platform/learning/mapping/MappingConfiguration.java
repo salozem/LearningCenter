@@ -9,4 +9,5 @@ public class MappingConfiguration {
     public StudentMapper studentMapper(){
         return new StudentMapper();
     }
+
 }
